@@ -3,9 +3,9 @@
 #### Welcome to my GitHub profile
 
 - 🔭 I’m currently working on 
-⋅⋅1. Adding more analysis and visualization to the Spotify data analysis 
-⋅⋅2. Generating a heatmap of buzzer beater shots in an NBA season
-⋅⋅3. Developing an automated style transfer application 
+1. Adding more analysis and visualization to the Spotify data analysis 
+2. Generating a heatmap of buzzer beater shots in an NBA season
+3. Developing an automated style transfer application 
 
 👔 Here is my [LinkedIn](https://www.linkedin.com/in/diego-k-alcantara/) 👔
 
