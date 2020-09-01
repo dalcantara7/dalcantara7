@@ -7,8 +7,6 @@
 2. Generating a heatmap of buzzer beater shots in an NBA season
 3. Developing an automated style transfer application 
 
-👔 Here is my [LinkedIn](https://www.linkedin.com/in/diego-k-alcantara/) 👔
-
 #### If you are here to check out my Data Science related work here is a handy list 😄
 
 * [OpenClass Prize NLP topic tagging](https://github.com/dalcantara7/openclass_prize)
