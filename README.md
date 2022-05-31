@@ -3,8 +3,6 @@
 #### Welcome to my GitHub profile
 
 - 🔭 I’m currently working on 
-1. Generating a heatmap of buzzer beater shots in an NBA season
-2. Developing an automated style transfer application 
 
 #### If you are here to check out my Data Science related work here is a handy list 😄
 
